@@ -1,0 +1,3 @@
+Name:sam
+Course:3rd BSC-AIR
+I learned some basic code in GitHub
